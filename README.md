@@ -1,5 +1,9 @@
 # Econometrics Review Slides 
 
-Originally for review session of Empirical Methods II at Harvard Kennedy School.
+I created these slides for API-202Z (Empirical Methods II) at Harvard Kennedy School.
 
-Thank you to Avery Schmidt, Shiro Kuriwaki, Teddy Svoronos, and all my students for their contributions
+They cover regression analysis, causal inference, and prediction with an emphasis on policy applications.
+
+Thank you to Shiro Kuriwaki, Avery Schmidt, Teddy Svoronos, and all my students for their contributions
+
+![](rd.png)
